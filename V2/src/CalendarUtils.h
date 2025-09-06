@@ -1,4 +1,4 @@
-// CalendarUtils.h - Versión Mejorada
+// CalendarUtils.h V2
 #pragma once
 #include <TimeLib.h>
 
